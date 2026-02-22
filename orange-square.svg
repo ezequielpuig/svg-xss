@@ -1,3 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50" onload="alert(0)" onclick="alert(0)" onmouseover="alert(0)">
-  <rect width="50" height="50" fill="#f97316"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 124 124" fill="none" onload="alert(document.domain)" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" transform="matrix(6.123233995736766e-17,1,-1,6.123233995736766e-17,0,0)">
+  <rect width="124" height="124" rx="24" fill="#f97316"></rect>
+  <path d="M19.375 36.782v63.843a4 4 0 0 0 4 4h63.843c3.564 0 5.348-4.309 2.829-6.828L26.203 33.953c-2.52-2.52-6.828-.735-6.828 2.829" fill="#fff"></path>
+  <circle cx="63.211" cy="37.539" r="18.164" fill="#000"></circle>
+  <rect opacity=".4" x="81.133" y="80.72" width="17.569" height="17.388" rx="4" transform="rotate(-45 81.133 80.72)" fill="#fdba74"></rect>
 </svg>
